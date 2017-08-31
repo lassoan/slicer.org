@@ -4,7 +4,7 @@ This ``slicer-org`` branch of this repository store the static content served at
 
 # Synchronization
 
-Every 5 minutes, the branch ``slicer-org`` is automatically pulled into the live site. There is no need to
+Every 5 minutes, the branch [slicer-org](https://github.com/Slicer/slicer.org/tree/slicer-org) is automatically pulled into the live site. There is no need to
 connect to the server in order to make changes.
 
 # History
